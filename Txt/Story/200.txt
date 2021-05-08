@@ -1,0 +1,134 @@
+<201>	Trail
+
+(0,0)
+You are on a trail in the forest that runs along 
+the river.
+
+(0,1)
+A small river rushes past. The water is cool and refreshing.
+
+(0,2)
+You see something glint in the sunlight from across the river. 
+You wade across and find a steel sword lodged in between 
+two boulders.
+
+(1,0)
+More bones are piled around. Unfortunately, they look 
+human.
+
+(1,1)
+The trail is getting steeper as you venture through the 
+Great Wood, further into the mountains.
+
+(1,2)
+An abandoned dinghy is overturned on the banks of the 
+river. It's been smashed in half and the oars are missing.
+
+(2,0)
+The forest is too dense to traverse in this direction.
+
+(2,1)
+You pass by what seems to be an abandoned shack. You 
+step closer to investigate but are chased away by an old 
+hermit swinging and wagging a sword much too heavy 
+for him to carry. 
+
+"I TOLD YOU MONSTERS TO GET AWAY!" he 
+shouted angrily. 
+
+"COME BACK HERE AND I WILL GRIND YOUR 
+BONES AND TURN THEM INTO SAND!" 
+
+You are quick to get away and continue on. 
+
+(2,2)
+You notice some broken oars on the side of the road. 
+Very strange indeed.
+
+<202>	Village
+(0,0)
+You are at the village entrance. You are able to see the 
+market, a small schoolhouse, and many shops.
+
+(0,1)
+There is a path that leads to the farmlands. A few villagers 
+pass by on horseback.
+
+(0,2)
+A sizeable market full of produce, meats, and other food items 
+are visible ahead. The scent of freshly baked bread makes your 
+mouth water.
+
+(1,0)
+You see the tavern you had previously visited. You see some villagers 
+you recognize. They wave to you and cheer you on in your quest.
+
+(1,1)
+You are at the center of the village. Evidence of a great fight against 
+a wyrm is splayed all over the nearby grounds and buildings. You must 
+work quickly to get rid of the monsters.
+
+(1,2)
+Some school children play outside of the school house while others eat 
+their pail lunches. A few of the children notice you and stare in awe.
+
+A little girl runs up to you and hugs you. 
+"Thank you for helping us," she whispers before running back to her 
+friends.
+
+(2,0)
+You see a sign to a house that reads "Elvira Lestat, potions for all your needs." 
+You peek inside and see a young, beautiful sorceress helping out a few customers, 
+with a custom potion. She seems a bit unexperienced as she accidently spoils the 
+potion she's brewing and must start again.
+
+(2,1)
+The sound of metal hitting metal catches your attention. A strong blacksmith 
+hammers away, carving out a new sword from bronze. In front of his station, 
+a sign reads, "Blacksmith and Metalworks."
+
+(2,2)
+You see a shop called The Red Brick General Store. They sell 
+clothing, weapons, armor, and potions.
+
+<203>	Volcano
+
+(0,0)
+You are on the path that leads to the volcano in the nearny mountains.
+
+(0,1)
+You find the remains of man with steel armor still intact. It would be a mighty
+fine item to take with you on your quest.
+
+(0,2)
+You see a cave at the base of the mountain. Inside you find the bones of a wyrm
+and piles and piles of gold. Among the gold, you see the armour and weaponry of
+several dead men who tried but failed to steal this wyrm's treasure when it was
+alive.
+
+(1,0)
+An old crone leaps into your way. 
+"TURN BACK! TURN BACK!" she screams. 
+"TURN BACK WHILE YOU CAN! THE WYRMS' 
+RAGE WILL SURELY RAIN DOWN ON YOU!" 
+
+(1,1)
+You slowly make you way up the mountain that leads to the volcano. 
+The air gets hotter as you go.
+
+(1,2)
+You are at the base of the volcano between the volcano and the next mountains 
+walls.
+
+(2,0)
+You see the footprints of a wyrm. You wearily walk past, your hand ready 
+to draw your weapon if needed.
+
+(2,1)
+At the top of the mountain, far, far down you see hot magma stewing, slowly 
+and actively rising. You notice a few zombies and skeletons hanging onto the 
+crevices of the walls, trying to claw at you but failing miserably. 
+
+(2,2)
+The mountains get rockier and harder to navigate through. It is almost impossible 
+to pass this way.

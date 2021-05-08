@@ -1,0 +1,134 @@
+<101>	House
+
+(0,0)
+You are at the door of an old barn owned by the young
+bar maid's family. It is a bit small but is sturdy and warm.
+
+(0,1)
+You see a woodworking table covered in tools and leather.
+With a closer look, you see a short sword that has recently 
+been cleaned.
+
+(0,2)
+There is a tall ladder in front of you that leads up to the loft.
+
+(1,0)
+Out the window you see a trail that leads out of the village.
+
+(1,1)
+You see a young boy tending to the livestock. You approach
+him.
+
+"You must be the knight my sister told me about. She told
+me about you when she came home from the tavern.
+Thank you for your help and godspeed." The young boy
+returns to his chores, feeding the horses and cows.
+
+(1,2)
+Up in the loft, you notice old farm machinery and hay.
+
+(2,0)
+A few horses whinny in their stalls as they feed on hay.
+
+(2,1)
+A cow moos loudly as a farmhand milks it. A bucket
+with a ladle is there for drinking.
+
+(2,2)
+There is a bed stuffed with hay, made up for you to sleep in.
+
+<102>	Shop
+
+(0,0)
+You are at the door of The Red Brick General Store. They sell 
+clothing, weapons, armor, and potions.
+
+(0,1)
+The floor boards have been smashed through and the wall is 
+scorched. A wyrm had attacked a few weeks ago and 
+burned some of the merchandise. 
+
+(0,2)
+You see several racks of clothing and armor made of different 
+protective materials.
+
+(1,0)
+You overhear some worried villagers by the shop window.
+
+"Did you hear, there was a sighting somewhere in the market. 
+No one knows what that horrid monster was but I hope that 
+the old woman who saw it was only seeing things!" a homely 
+woman says. 
+
+"I hope so as well. Wolves have been attacking our farm and 
+breaking into the chicken coop. One even bit my poor boy last 
+night!" another woman laments.
+
+(1,1)
+You pass by more villagers and patrons to the shop.
+
+(1,2)
+There is a large shelf of potions of all varieties.
+
+(2,0)
+There is a large display of livestock feed and products.
+
+(2,1)
+The shopkeeper is behind the counter ready to help in 
+any way.
+
+(2,2)
+You see shields and swords of different materials and 
+sizes displayed and gleaming in the light.
+
+<103>	Forest
+
+(0,0)
+You are at the tree arch at the foot of the Great Wood. 
+The fog is still present but not as thick as before.
+
+(0,1)
+You see a skull and a pile of bones hiding under a bush. 
+They look like that of a dog's. You stay viligant as you trek 
+through the forest.
+
+(0,2)
+Great! You find bushes covered in wild blackberries and 
+raspberries. They look juicy and ripe enough to eat! Under 
+the bushes, you see a bottled potion unopened and unused.
+
+(1,0)
+You come upon a cave a the foot of a mountain. You peer inside 
+but can see nothing. You vaguely hear the squeaks of bats. You 
+back away, hoping you did not disturb them.
+
+(1,1)
+An old willow tree stands tall in the forest. Half of it is rotting 
+and the other half is alive with full healthy foliage. You draw 
+near and find the cause, a black sword, oozing with evil. A 
+black goo seeps out of the tree, killing the grass under it. You 
+leap back and hurry away. That is the sword of a dark knight 
+and should not be taken lightly.
+
+(1,2)
+A small enclosed graveyard filled with wooden crosses is before 
+you. You quickly pay your respects but you notice that some of 
+the graves are empty.
+
+(2,0)
+A fallen tree serves as a bridge over ariver but it disappears 
+into a thicker portion of the fog. 
+
+(2,1)
+A small river rushes past. The water is cool and refreshing.
+
+(2,2)
+You see a group of young boys fishing at a nearby fishing spot.
+
+"Hey, I know you!" one of the boy cries, "You're the knight 
+who will save the village!"
+
+"Beware, a dark knight passed through here not too long ago." 
+another boy warned. 
+
+You nod, thanking them for the warning, and continuing on.

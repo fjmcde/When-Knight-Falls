@@ -1,0 +1,22 @@
+<101>
+
+(0, 0)
+Pick up	Item	Potion	Restores 100 HP
+
+<102>
+
+(0, 0)
+Pick up	Weapon	Sword	Str + 5
+
+<103>
+
+(0, 0)
+Pick up	Armor	Shield	Def + 1
+
+(1, 1)
+Armor	Shield	Def + 2
+Weapon	Dagger	Str + 2
+Consumable	Potion	HP + 100
+
+(2, 2)
+Pick up	Armor	Shield	Def + 3
